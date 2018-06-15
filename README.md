@@ -1,8 +1,3 @@
-![DinPay JavaScript](https://i.imgur.com/ywwE2uF.png)
-
-
-[![Build Status](https://travis-ci.org/dinpays/dinpayjs.svg?branch=master)](https://travis-ci.org/dinpays/dinpayjs)
-
 # DinPayJS
 
 DinPayJS is a JavaScript library for sending DIN transactions. It's main benefit is that it does not require a locally installed DINPAY node, and instead utilizes the existing peers on the network. It can be used from the client as a [browserify](http://browserify.org/) compiled module, or on the server as a standard Node.js module.
